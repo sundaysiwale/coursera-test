@@ -1,0 +1,27 @@
+/* Created by user on 4/26/2026, 10:20:43 AM */
+/* Last modified by user on 4/26/2026, 10:22:41 AM */
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Tall section styling */
+.tall-section {
+  background-color: #f2f2f2;
+  height: 1000px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Mobile dropdown full width */
+#mobile-menu {
+  background-color: #ddd;
+}
+
+#mobile-menu ul {
+  width: 100%;
+}
+
+#mobile-menu li {
+  border-bottom: 1px solid #aaa;
+}
